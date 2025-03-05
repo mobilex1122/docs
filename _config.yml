@@ -1,1 +1,4 @@
 remote_theme: carlosperate/jekyll-theme-rtd
+title: JP Docs
+description: Documentation for most of my projects. (originally called JP Wiki)
+github_docs_folder: false
